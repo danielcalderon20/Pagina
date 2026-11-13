@@ -1,0 +1,8 @@
+PÁGINA WEB — VERSIÓN 26
+
+1. Para verla: abre index.html en Chrome, Safari o Firefox.
+2. Al publicar en Vercel, sube el contenido de esta carpeta (incluyendo api/preguntar.js).
+3. La IA pública necesita configurar OPENAI_API_KEY como variable de entorno en Vercel.
+4. Las respuestas de respaldo en el navegador funcionan sin la API.
+5. El mapa de Google Maps y las librerías externas requieren conexión a Internet.
+6. Los PDF del IDPYBA se incluyen en esta carpeta.
